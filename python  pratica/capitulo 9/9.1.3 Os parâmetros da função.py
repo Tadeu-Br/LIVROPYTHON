@@ -17,11 +17,11 @@ print(C)
 
 print("=========================")
 
-def soma(x, y): 
-    z = x + y 
+def soma(k, l): 
+    z = k + l 
     return z 
 # programa principal
-A = 10
-B = 20 
-C = soma(A,B) 
-print(C)
+k = 340
+l = 160 
+z = soma(k,l) 
+print(z)
