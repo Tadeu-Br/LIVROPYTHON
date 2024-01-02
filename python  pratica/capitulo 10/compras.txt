@@ -1,0 +1,5 @@
+Lista de compras
+Produto:pão
+Produto:leite
+Produto:manteiga
+Produto:queijo
