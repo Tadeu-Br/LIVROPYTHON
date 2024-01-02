@@ -1,0 +1,8 @@
+* IOError: Erros de leitura/escrita de arquivos
+* ValueError: Parâmetros fora do domínio (exemplo, sqrt(-1))
+* IndexError: Índice fora de limites
+* TypeError: Erro de tipos
+* KeyError: Chave não encontrada no dicionário
+* NameError: Nome de variável não encontrado
+* RecursionError: Foi alcançada a profundidade máxima da recursão
+* IndentationError: indentação incorreta detectada
