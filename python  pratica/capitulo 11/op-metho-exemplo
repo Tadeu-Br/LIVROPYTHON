@@ -1,0 +1,8 @@
++ __add__ A + B 
+- __sub__ A - B 
+* __mul__ A * B 
+/ __truediv__ A / B 
+== __eq__ A == B 
+!= __ne__ A != B
+> __gt__ A > B
+< __lt__ A < B
