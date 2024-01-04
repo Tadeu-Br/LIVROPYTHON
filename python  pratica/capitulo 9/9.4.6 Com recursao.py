@@ -4,5 +4,5 @@ def fibo(n):
     else: 
         return fibo(n-1) + fibo(n-2)
 
-n = int(input("entrada"))
+n = int(input("entrada "))
 print(fibo(n))

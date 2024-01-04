@@ -18,13 +18,3 @@ def soma(las):
 lista = [1,2,3,4,5] 
 res = soma(lista)
 print(res)
-
-
-def soma(lis):
-    s = 0 for valor in lis:
-        s = s + valor 
-    return s
-    print('Fim da função') 
-lista = [1,2,3,4,5] 
-res = soma(lista)
-print(res)

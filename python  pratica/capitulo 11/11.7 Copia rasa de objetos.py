@@ -13,7 +13,9 @@ class Pessoa:
         return f"Nome: {self.nome}, Idade: {self.idade}, Lista: {self.lista}"
     
 pessoa1 = Pessoa("João", 30, [10,20])
+#aqui tá sendo feito.
 pessoa2 = copy.copy(pessoa1)
+#a copia normal
 pessoa1.idade = 20
 pessoa1.lista[0] = 100
 

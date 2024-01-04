@@ -12,5 +12,5 @@ def fibo(n):
             B = C
             return C
 
-n = int(input("entrada"))
+n = int(input("entrada "))
 print(fibo(n))

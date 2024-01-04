@@ -26,10 +26,3 @@ print(str[-6])
 # imprime a letra ‘n’
 print(str[-1])
 
-texto = "Python" 
-# Percorre apenas os elementos 
-for letra in texto: 
-    print(letra)
-# Percorre os índices e elementos
-for indice in range(len(texto)): 
-    print(indice, texto[indice])
